@@ -1,11 +1,11 @@
 ---
 layout: page
 title: Research
-tags: [research, shruti, palaskar, cmu, graduate, pict]
+tags: [research, ganesh, mirishkar, iiit, graduate, pict]
 modified: 2018-28-11T20:53:07.573882-04:00
 comments: false
 ---
-
+<!-- 
 I am interested in enabling machines to learn from multiple modalities of data like text, audio, video, semantics as humans naturally do.
 
 ### Ongoing Research
@@ -56,4 +56,4 @@ Class project for Probabilistic Graphical Models (10-708 Spring 2017)
 ### Undergrad Internships
 
 During my undergrad, I was fortunate to work on computer vision problems with [Dr. Hyunsung Park](https://sites.google.com/site/hyunsung/) and [Prof. Ramesh Raskar](http://web.media.mit.edu/~raskar/) at the MIT Media Lab mentored [REDX Innovation Labs](http://redx.io), on machine translation with [Prof. Ganesh Ramakrishnan](https://www.cse.iitb.ac.in/~ganesh/) at [IIT Bombay](https://www.cse.iitb.ac.in) and on recommender systems with [Harshad Saykhedkar](https://www.linkedin.com/in/harshadss/?originalSubdomain=in) at a digital marketing startup, [Sokrati Technologies](https://sokrati.com).
-
+ -->
