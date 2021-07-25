@@ -39,7 +39,4 @@ Before joining as a Ph.D. scholar at the International Institute of Information 
         I successfully completed a project titled "Speech to Speech Translation & Performance MeasurementPlatformfor Broadcast Speeches & Talks" which is sponsored by Ministry of Electronics and Information Technology (MeITY), Govt of India.
         </td>
     </tr>
-
-
-
 </table>
