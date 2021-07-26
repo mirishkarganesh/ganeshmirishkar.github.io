@@ -29,7 +29,7 @@ Before joining as a Ph.D. scholar at the International Institute of Information 
     </tr>
     <tr>
         <td valign="top"><strong>[Aug 2020]</strong></td>
-        Started working on collecting crowdsource telugu speech corpus. </td>
+        <td>Started working on collecting crowdsource telugu speech corpus. </td>
     </tr>
     <tr>
         <td valign="top"><strong>[May 2020]</strong></td>
