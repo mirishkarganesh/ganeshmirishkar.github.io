@@ -21,8 +21,18 @@ Before joining as a Ph.D. scholar at the International Institute of Information 
     <col width="82%">
     <tr>
         <td valign="top"><strong>[Jul 2021]</strong></td>
-        I will be attending IEEE SPS Two week summer school on "Development of Speech Recognition Systems for Indian Languages using Deep Learning and Open Source Resources".
-        </td>
+        I will be attending IEEE SPS Two week summer school on "Development of Speech Recognition Systems for Indian Languages using Deep Learning and Open Source Resources".</td>
     </tr>
-
+    <tr>
+        <td valign="top"><strong>[Jul 2021]</strong></td>
+        Started working on collecting crowdsource telugu conversational speech corpus .
+    </tr>
+    <tr>
+        <td valign="top"><strong>[Aug 2020]</strong></td>
+        Started working on collecting crowdsource telugu speech corpus .
+    </tr>
+    <tr>
+        <td valign="top"><strong>[May 2020]</strong></td>
+        I successfully completed a project titled "Speech to Speech Translation & Performance MeasurementPlatformfor Broadcast Speeches & Talks" which is sponsored by Ministry of Electronics and Information Technology (MeITY), Govt of India.
+    </tr>
 </table>
