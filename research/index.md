@@ -10,7 +10,5 @@ I am interested in building speech recongition solution.
 
 ### Ongoing Research
 
-* **Multimodal Video Understanding**  
-Exploring video summarization, rationalization and understanding multimodally in videos. The [How2 dataset](https://github.com/srvk/how2-dataset) largely facilitates this work.
-
-
+* **Crowd-Source Telugu Conversation Speech Data Corpus**  
+Ex
