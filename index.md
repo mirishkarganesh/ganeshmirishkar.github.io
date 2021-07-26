@@ -29,7 +29,7 @@ Before joining as a Ph.D. scholar at the International Institute of Information 
     </tr> 
     <tr>
         <td valign="top"><strong>[Feb 2021]</strong></td>
-        <td>I successfully completed my comprehensive-viva presentation titled <strong>[Acoustic Modeling for Low Resource Automatic Speech Recognition Systems]</strong></td>
+        <td>I successfully completed my comprehensive-viva presentation titled <strong>Acoustic Modeling for Low Resource Automatic Speech Recognition Systems</strong></td>
     </tr>
     <tr>
         <td valign="top"><strong>[Jan 2021]</strong></td>
