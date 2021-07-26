@@ -11,5 +11,6 @@ mirishkar [dot] ganesh [at] research [dot] iiit [dot] ac [dot]  in
 
 Address:  
 Speech Processing Laboratory, LTRC,
-KCIS, IIITH,
+Kohli Centre on Intelligent Systems,
+International Institute of Information Technology,
 Hyderabad, IN - 500032.  
