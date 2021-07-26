@@ -25,14 +25,29 @@ Before joining as a Ph.D. scholar at the International Institute of Information 
     </tr>
     <tr>
         <td valign="top"><strong>[Jul 2021]</strong></td>
-        <td>Started working on collecting crowdsource telugu conversational speech corpus .</td>
+        <td>Started working on collecting crowdsource telugu conversational speech corpus, which is sponsored by Ministry of Electronics and Information Technology (MeITY), Govt of India.</td>
+    </tr> 
+    <tr>
+        <td valign="top"><strong>[Feb 2021]</strong></td>
+        <td>I successfully completed my comprehensive-viva presentation titled <strong>[Acoustic Modeling for Low Resource Automatic Speech Recognition Systems]</strong></td>
+    </tr>
+    <tr>
+        <td valign="top"><strong>[Jan 2021]</strong></td>
+        <td>A paper on <strong>[INDICAP: A Multilingual Speech Translation Application]</strong> is accepted at SLT 2021. </td>
+    </tr>
+    <tr>
+        <td valign="top"><strong>[Jan 2021]</strong></td>
+        <td>A paper on <strong>[REED: AN APPROACH TOWARDS QUICKLY BOOTSTRAPPING MULTILINGUAL ACOUSTIC MODELS]</strong> is accepted at SLT 2021. </td>
     </tr>
     <tr>
         <td valign="top"><strong>[Aug 2020]</strong></td>
-        <td>Started working on collecting crowdsource telugu speech corpus. </td>
+        <td>Started working on collecting crowdsource telugu speech corpus, which is sponsored by Ministry of Electronics and Information Technology (MeITY), Govt of India. </td>
     </tr>
     <tr>
         <td valign="top"><strong>[May 2020]</strong></td>
-        <td>I successfully completed a project titled "Speech to Speech Translation & Performance MeasurementPlatformfor Broadcast Speeches & Talks" which is sponsored by Ministry of Electronics and Information Technology (MeITY), Govt of India. </td>
+        <td>I successfully completed a project titled "Speech to Speech Translation & Performance Measurement Platform for Broadcast Speeches & Talks" which is sponsored by Ministry of Electronics and Information Technology (MeITY), Govt of India. </td>
     </tr>
+
+
+
 </table>

@@ -12,3 +12,6 @@ I am interested in building speech recongition solution.
 
 * **Crowd-Source Telugu Conversation Speech Data Corpus**  
 Ex
+
+* **Crowd-Source Telugu Speech Data Corpus** 
+
