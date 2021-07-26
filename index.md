@@ -10,7 +10,7 @@ Hi!
 
 I am a PhD student at the Speech Processing Laboratory, [Language Technologies Research Center](https://ltrc.iiit.ac.in/) at [International Institute of Information Technology, Hyderabad](https://www.iiit.ac.in/). My research interests lie in the speech signal processing, machine learning, and deep learning with applications to robust speech recognition, multilingual speech recognition, speech enhancement and audio analytics. 
 
-Before joining as a Ph.D. scholar at the International Institute of Information Technology, I spent about 1 year 1 month as an Audio DSP Engineer - Algorithm developer at the Imagination Technologies (Currently Meeami Technologies), Hyd, India. I completed my Master of Technology (M.Tech) with Dr. Lalan Kumar and Dr. Bijayananda Patnaik, at Dept. of ECE, International Institute of Information Technology, Bhubaneswar , India.
+Before joining as a Ph.D. scholar at the International Institute of Information Technology, I spent about 1 year 1 month as an Audio DSP Engineer - Algorithm developer at the Imagination Technologies (Currently Meeami Technologies), Hyd, India. I completed my Master of Technology (M.Tech) at Dept. of ECE, International Institute of Information Technology, Bhubaneswar , India.
 
 
 ----
@@ -33,11 +33,11 @@ Before joining as a Ph.D. scholar at the International Institute of Information 
     </tr>
     <tr>
         <td valign="top"><strong>[Jan 2021]</strong></td>
-        <td>A paper on <strong>[INDICAP: A Multilingual Speech Translation Application]</strong> is accepted at SLT 2021. </td>
+        <td>A paper on <strong>INDICAP: A Multilingual Speech Translation Application</strong> is accepted at SLT 2021. </td>
     </tr>
     <tr>
         <td valign="top"><strong>[Jan 2021]</strong></td>
-        <td>A paper on <strong>[REED: AN APPROACH TOWARDS QUICKLY BOOTSTRAPPING MULTILINGUAL ACOUSTIC MODELS]</strong> is accepted at SLT 2021. </td>
+        <td>A paper on <strong>REED: AN APPROACH TOWARDS QUICKLY BOOTSTRAPPING MULTILINGUAL ACOUSTIC MODELS</strong> is accepted at SLT 2021. </td>
     </tr>
     <tr>
         <td valign="top"><strong>[Aug 2020]</strong></td>
